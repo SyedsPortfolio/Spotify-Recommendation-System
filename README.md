@@ -1,6 +1,7 @@
 # Spotify Recommendation System
 
-![Header_01__1_](https://github.com/SyedsProjectPortfolio45/Spotify-Recommendation-System/assets/147240839/c3640aaf-35c4-4231-9c54-d9c220f1396d)
+![206826750-ca6c97f1-56d7-4fab-9a9d-8ecc09776774](https://github.com/SyedsProjectPortfolio45/Spotify-Recommendation-System/assets/147240839/f76cd3b1-d792-4cb5-86c8-6bdb8e679b94)
+
 
 
 #### Tools used🛠: Python, ML, NLP, NumPy, Pandas, Sk-learn, TensorFlow, Keras, spaCy
