@@ -4,7 +4,7 @@
 
 #### Tools used🛠: Python, Machine Learning, NumPy, Pandas, Sci-kit learn, SpotiPy
 
-## 🚧You see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
+## 🚧You can see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
 
 # Objective
 To build a Music Recommendation System using the Spotify API to collect real-time music data from Spotify.
